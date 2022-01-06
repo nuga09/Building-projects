@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec 28 16:01:37 2021
 
 @author: nugad
 """
@@ -10,7 +9,6 @@ Created on Tue Dec 28 16:01:37 2021
 """Migration script for converting legacy DataStorage databases to pandas 
 compatible hdf5 files.
 
-:copyright: Fraunhofer ISE - 2020
 """
 
 from datastorage.utils.dbcontext import dbcontext # @UnresolvedImport
